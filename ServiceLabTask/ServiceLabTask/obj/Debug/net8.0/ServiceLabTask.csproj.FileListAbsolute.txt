@@ -1,0 +1,15 @@
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\bin\Debug\net8.0\ServiceLabTask.exe
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\bin\Debug\net8.0\ServiceLabTask.deps.json
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\bin\Debug\net8.0\ServiceLabTask.runtimeconfig.json
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\bin\Debug\net8.0\ServiceLabTask.dll
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\bin\Debug\net8.0\ServiceLabTask.pdb
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.AssemblyInfoInputs.cache
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.AssemblyInfo.cs
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.csproj.CoreCompileInputs.cache
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.sourcelink.json
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.dll
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\refint\ServiceLabTask.dll
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.pdb
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ServiceLabTask.genruntimeconfig.cache
+C:\Users\Elmar\OneDrive\İş masası\LabTasks\TheLastC#Lab\ServiceLabTask\ServiceLabTask\obj\Debug\net8.0\ref\ServiceLabTask.dll
